@@ -10,7 +10,7 @@ To celebrate his release of the new album, he collaborated with different artist
 
 
 figma link:
-https://www.figma.com/design/bTzOGbs138oGRGGBh9KKmX/Untitled?node-id=0-1&t=ctEaWMHVfe0xhQDN-1
+https://www.figma.com/design/bTzOGbs138oGRGGBh9KKmX/ID_S10267664_Leong-Ming-Hui_Assg1_wireframe?node-id=0-1&t=cEQlZYtBvyUfqL2p-1
 
 
 
