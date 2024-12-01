@@ -159,7 +159,7 @@ header h1 {
 #banner {
   position: relative;
   height: 80vh;
-  background: url('ID Website/pic2.jpg') no-repeat center center/cover;
+  background: url('ID_Website/pic2.jpg') no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -196,7 +196,7 @@ header h1 {
 
 /* Announcements Section*/
 #announcements {
-  background-image: url("ID Website/bg_underwater--top.jpg") ;
+  background-image: url("ID_Website/bg_underwater--top.jpg") ;
   background-size: cover; /* Dark background for contrast */
   color: #ffffff; 
   text-align: center; /* Center the text */
@@ -239,7 +239,7 @@ header h1 {
 
 .image-gallery {
   padding: 20px;
-  background-image: url('ID Website/bg_underwater--bottom.jpg'); /* Set your background image */
+  background-image: url('ID_Website/bg_underwater--bottom.jpg'); /* Set your background image */
   background-size: cover; /* Cover the entire section */
   background-position: center; /* Center the background image */
   color: white; 
