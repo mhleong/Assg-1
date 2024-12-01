@@ -180,19 +180,19 @@ header h1 {
   margin-bottom: 1em;
 }
 
-.banner-content button {
-  padding: 10px 20px;
-  font-size: 1em;
-  color: #fff;
-  background-color: #000000;
-  border: none;
-  cursor: pointer;
+.button-link {
+  display: inline-block; /* Make it behave like a block */
+  padding: 10px 20px; /* Add some padding */
+  background-color: #7dc8d2; /* Button background color */
+  color: white; /* Text color */
+  text-align: center; /* Center the text */
+  text-decoration: none; /* Remove underline */
+  border-radius: 5px; /* Rounded corners */
 }
 
-.banner-content button:hover {
-  background-color: #008ba3; /* Change background colour on hover */
+.button-link:hover {
+  background-color: #008ba3; /* Darker shade on hover */
 }
-
 
 /* Announcements Section*/
 #announcements {

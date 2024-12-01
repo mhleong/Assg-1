@@ -9,7 +9,8 @@ I also revamped the announcment sections so that it shows his latest album "Unde
 To celebrate his release of the new album, he collaborated with different artists to draw illustrations for every song in his album. However, he only posted that on his social medias but not on the websites. Therefore, i wanted to showcase it on the website since all the artworks are really nice. All these features would be useful for Eve fans or anyone who wants to be updated on the latest news or songs/album as well as looking back or checking out concert pictures, artworks and videos
 
 
-
+figma link:
+https://www.figma.com/design/bTzOGbs138oGRGGBh9KKmX/Untitled?node-id=0-1&t=ctEaWMHVfe0xhQDN-1
 
 
 
